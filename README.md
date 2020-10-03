@@ -1,6 +1,6 @@
 # FFXIV Hunts Path Finder
 
-www.ffxivhuntspath.com was a simple website, until 2th of October of 2020, made to help with the daily hunts. The website was born as an internal tool for our Free Company, therefore was made quickly, and with the data gathered manually by some members of the Free Company. After some time, it gained some popularity, and some features were added and improved thanks to the ideas and feedback of the community.
+www.ffxivhuntspath.com was a simple website, until 2th of October of 2020, made to help with the daily hunts in the videogame Final Fantasy XIV: A Realm Reborn. The website was born as an internal tool for our Free Company, therefore was made quickly, and with the data gathered manually by some members of the Free Company. After some time, it gained some popularity, and some features were added and improved thanks to the ideas and feedback of the community.
 
 Why do I tell you all of this?
 
